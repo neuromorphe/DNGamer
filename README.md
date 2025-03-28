@@ -82,8 +82,8 @@ DN Gamer - это интерактивный телеграм-бот, предн
 
 Наша цель - создать качественный продукт, который станет примером успешной командной работы. Мы верим, что DN Gamer станет любимым развлечением для пользователей Telegram!
 
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repo)
-![GitHub contributors](https://img.shields.io/github/contributors/username/repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/neuromorphe/DNGamer)
+![GitHub contributors](https://img.shields.io/github/contributors/neuromorphe/DNGamer)
 
 *Сделано с ❤️ командой DN Gamer*
 
